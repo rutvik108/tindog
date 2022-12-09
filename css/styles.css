@@ -78,12 +78,10 @@ h3 {
 
 }
 
-@media(max-width:1800px) {
+@media(max-width:1824px) {
 
     #title {
         text-align: center;
-
-
     }
 
     .imgiphone {
