@@ -78,7 +78,7 @@ h3 {
 
 }
 
-@media(max-width:1024px) {
+@media(max-width:1800px) {
 
     #title {
         text-align: center;
@@ -98,7 +98,7 @@ h3 {
     }
 }
 
-@media (min-height:100px) {
+@media (min-height:1000px) {
     .imgiphone {
         position: absolute;
         width: 20%;
