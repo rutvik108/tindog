@@ -87,7 +87,7 @@ h3 {
     .imgiphone {
         position: static;
         transform: rotate(0);
-       
+        margin-top:50px;
     }
 
     .h1code {
@@ -96,6 +96,22 @@ h3 {
     }
 }
 
+@media (min-height:1000px) {
+    #title {
+        text-align: center;
+
+
+    }
+    .imgiphone {
+        position: static;
+        transform: rotate(0);
+        margin-top: 50px;
+    }
+    .h1code {
+        margin: 0 auto 50px auto;
+        font-size: 60px;
+    }
+}
 
 
 #features {
