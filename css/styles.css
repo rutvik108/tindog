@@ -98,7 +98,15 @@ h3 {
     }
 }
 
-
+@media (min-height:100px) {
+    .imgiphone {
+        position: absolute;
+        width: 20%;
+        top: 10%;
+        right: 25%;
+        transform: rotate(0);
+    }
+}
 
 #features {
     background-color: white;
